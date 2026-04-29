@@ -68,22 +68,4 @@ For mid-range properties at $250,000, this represents a ~28% error margin. Suita
 | `chart_04_geographic_distribution.png` | California map coloured by house value — coastal premium visible |
 | `chart_05_residuals_and_predictions.png` | Residual plot + actual vs predicted — model diagnostic |
 
----
 
-## How to Run
-```bash
-# Clone the repo
-git clone https://github.com/NidhiNalini/04-house-price-predictor
-
-# Activate your environment
-conda activate summer-learning
-
-# Launch Jupyter
-jupyter notebook house-price-predictor.ipynb
-```
-
-No external data download required — dataset loads automatically from scikit-learn.
-
----
-
-*Part of a 90-day portfolio build · Red Deer Polytechnic · Post-Baccalaureate AI & Data Analytics*
